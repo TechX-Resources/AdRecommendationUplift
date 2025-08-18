@@ -54,3 +54,35 @@ This ensures that product discovery is relevant and that advertising budgets are
 6. **Evaluation & ROI Simulation**
     - Runs offline evaluation of recommendation accuracy and targeting impact.
     - Simulates advertising ROI under different targeting strategies before live deployment.
+
+---
+
+## Setup
+
+```
+python -m venv venv
+```
+
+```
+source venv/bin/activate
+```
+
+```
+pip install -r requirements.txt
+```
+
+---
+
+## Start
+
+```
+source venv/bin/activate
+```
+
+---
+
+## Save Requirement.txt
+
+```
+pip freeze > requirements.txt
+```
