@@ -198,3 +198,18 @@ cython_debug/
 .cursorindexingignore
 
 .DS_Store
+.DS_Store/
+.docs
+.docs/
+docs
+/docs/
+KuaiRec/
+.KuaiRec
+.KuaiRec/
+/KuaiRec/
+KuaiRec/
+/Data
+.Data
+Data/
+.Data/
+/Data/
